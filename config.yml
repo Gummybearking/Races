@@ -1,0 +1,21 @@
+#Put a list of races here Each race should have info, description, and name
+#info should be quick and simple
+#Description should give all racial abilities
+#bounty should be an integer that represents economy money
+races:
+  example:
+    info: You should remove this!
+    description: This is is a more in-depth description
+    bounty: 10
+#Do not touch this unless needed
+users:
+ 
+#Config Options 
+config:
+  defaultRace: No-Race
+  killerMessage: '&bYou &7have slain %p the %r'
+  allowBounties: false
+  bountyBroadcast: '&b%k&7 has earned &6%m Voxels &7for killing %p, the %r'
+
+
+
